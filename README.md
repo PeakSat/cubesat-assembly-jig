@@ -9,7 +9,7 @@ This document serves as a guide for the hole pattern of the cubesat assembly JIG
   
 Their sizes are derived from *Table 1* of the section "2.3 Cubesat Allowable Volume", of the [EXOpod Nova User manual](https://exolaunch.com/documents/EXOpod_Nova_User_Manual_March_2024.pdf).
 
--The symbology that will used is the following: 
+- The symbology that will used is the following: 
 Symbol | Cubesat format
 --- | --- 
 :U | 1, 1.5, 2, 3, 4 U
@@ -79,11 +79,11 @@ A/a | Bracket cluster
 <img src="https://github.com/user-attachments/assets/ad338f62-37bc-496d-947d-107ef6902910" alt="cubesat_xy_draw" width="1000">
 
 ## Cubesats positions
-- The positions will be described using the following format:
+The positions will be described using the following format:
   - (Cubesat Format)(Plane corresponding to the reference frame of the CubeSat), for example *1U XY*
   - Exceptions are the *::U XY* and *:::U XY* positions, where the **orientation** information is added in between, for example, *::U Orientation 1 XY*. These are the only positions where the orientation of the brackets affects how the corresponding CubeSat will be able to orient on its other planes.
  
-### _Position_ :U XY
+### <u>Position</u> :U XY
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -143,7 +143,7 @@ A/a | Bracket cluster in use
 
 <img src="https://github.com/user-attachments/assets/fc5d0cf1-d704-4b23-b915-3b9c35b048d6" alt="cubesat_xy_draw" width="1000">
 
-### _Position_ ::U Orientation 1 XY
+### __Position__ ::U Orientation 1 XY
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -152,7 +152,7 @@ A/a | Bracket cluster in use
 <img src="https://github.com/user-attachments/assets/9eef3beb-7807-4b95-9551-955201663026" alt="cubesat_xy_draw" width="1000">
 
 
-### _Position_ ::U Orientation 2 XY
+### __Position__ ::U Orientation 2 XY
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -160,7 +160,7 @@ A/a | Bracket cluster in use
 1 | ::U Orientation 2 Core
 <img src="https://github.com/user-attachments/assets/91b2b014-563e-4ab5-993a-adb045bd3781" alt="cubesat_xy_draw" width="1000">
 
-### _Position_ 6U XZ
+### __Position__ 6U XZ
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -170,7 +170,7 @@ A/a | Bracket cluster in use
 
 <img src="https://github.com/user-attachments/assets/6b45bd33-a67a-4183-8930-c9bb15b49472" alt="cubesat_xy_draw" width="1000">
 
-### _Position_ 6U YZ
+### __Position__ 6U YZ
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -180,7 +180,7 @@ A/a | Bracket cluster in use
 
 <img src="https://github.com/user-attachments/assets/13a84034-621e-4b91-bd8b-998c3e98b334" alt="cubesat_xy_draw" width="1000">
 
-### _Position_ 8U XZ
+### __Position__ 8U XZ
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -191,7 +191,7 @@ A/a | Bracket cluster in use
 
 <img src="https://github.com/user-attachments/assets/5f9d35e2-7e08-412c-aca3-3046d63258f3" alt="cubesat_xy_draw" width="1000">
 
-### _Position_ 8U YZ
+### __Position__ 8U YZ
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -203,7 +203,7 @@ A/a | Bracket cluster in use
 <img src="https://github.com/user-attachments/assets/1408b43d-5ebf-4a83-a604-f9a63e8fe7d2" alt="cubesat_xy_draw" width="1000">
 
 
-### _Position_ :::U Orientation 1 XY
+### __Position__ :::U Orientation 1 XY
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -212,7 +212,7 @@ A/a | Bracket cluster in use
 <img src="https://github.com/user-attachments/assets/87b8ba9e-a836-4015-b52d-2eff90b54e0c" alt="cubesat_xy_draw" width="1000">
 
 
-### _Position_ :::U Orientation 2 XY
+### __Position__ :::U Orientation 2 XY
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -221,7 +221,7 @@ A/a | Bracket cluster in use
 <img src="https://github.com/user-attachments/assets/1bb5a745-6dd7-4802-954c-259a33dd2ecf" alt="cubesat_xy_draw" width="1000">
 
 
-### _Position_ 12U XZ
+### __Position__ 12U XZ
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -232,7 +232,7 @@ A/a | Bracket cluster in use
 <img src="https://github.com/user-attachments/assets/501619c3-341a-4896-9f48-4b224b20b161" alt="cubesat_xy_draw" width="1000">
 
 
-### _Position_ 12U YZ
+### __Position__ 12U YZ
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -241,7 +241,7 @@ A/a | Bracket cluster in use
 
 <img src="https://github.com/user-attachments/assets/9701e7d2-2ebd-4292-8dcf-d8770b485a2d" alt="cubesat_xy_draw" width="1000">
 
-### _Position_ 16U XZ
+### __Position__ 16U XZ
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
@@ -252,7 +252,7 @@ A/a | Bracket cluster in use
 
 <img src="https://github.com/user-attachments/assets/f9678217-44cc-47d5-aaa1-d9d18e4c7f25" alt="cubesat_xy_draw" width="1000">
 
-### _Position_ 16U YZ
+### <u>Position</u> 16U YZ
 This position consists of the following bracket clusters:
 
 A/a | Bracket cluster in use
