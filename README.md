@@ -6,6 +6,7 @@ This document serves as a guide for the hole pattern of the cubesat assembly JIG
 
 - The CubeSat formats for which the structure is designed are:
   - 1, 1.5, 2, 3, 4, 6, 8, 12, 16 U
+  
 Their sizes are derived from *Table 1* of the section "2.3 Cubesat Allowable Volume", of the [EXOpod Nova User manual](https://exolaunch.com/documents/EXOpod_Nova_User_Manual_March_2024.pdf).
 
 -The symbology that will used is the following: 
